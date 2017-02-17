@@ -1,0 +1,14 @@
+/mysql/backup
+/mysql/data
+/tmp
+/apache/logs
+/htdocs
+!/htdocs/dashboard
+!/htdocs/img
+!/htdocs/webalizer
+!/htdocs/xampp
+!/htdocs/applications.html
+!/htdocs/bitnami.css
+!/htdocs/favicon.ico
+!/htdocs/index.php
+/mailoutput/
